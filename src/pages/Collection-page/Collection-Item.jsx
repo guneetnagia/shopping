@@ -1,16 +1,15 @@
 import React from 'react';
+import './Collection-Item.scss';
 
-export const CollectionItem = (props) => {
-    const {title,items,id} = props;
+export const CollectionItem = ({imageUrl,price,name}) => {
+
     return (
-                         <div className="collection-item" key={id}>
-                            <h2>{title}</h2>
-                            {
-                                items.map((item, idx) => (
-                                    <div key={item.id}>{item.name}</div>
-                                ))
-                            }
-
-                        </div>
+        <div className="collection-item">
+            <div className="image" style={{ backgroundImage: `url(${imageUrl})` }} />
+            <div className="collection-footer">
+                <span className="name">{name}</span>
+                <span className="price">{price}</span>
+            </div>
+        </div>
     )
 }
