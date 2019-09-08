@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/shopping/static/css/main.80fe696c.chunk.css",
+    "main.js": "/shopping/static/js/main.12afd525.chunk.js",
+    "main.js.map": "/shopping/static/js/main.12afd525.chunk.js.map",
+    "runtime~main.js": "/shopping/static/js/runtime~main.ffbfa2d9.js",
+    "runtime~main.js.map": "/shopping/static/js/runtime~main.ffbfa2d9.js.map",
+    "static/js/2.ee0d43ce.chunk.js": "/shopping/static/js/2.ee0d43ce.chunk.js",
+    "static/js/2.ee0d43ce.chunk.js.map": "/shopping/static/js/2.ee0d43ce.chunk.js.map",
+    "index.html": "/shopping/index.html",
+    "precache-manifest.d2147f616583abc8b82fdce21b8c8b97.js": "/shopping/precache-manifest.d2147f616583abc8b82fdce21b8c8b97.js",
+    "service-worker.js": "/shopping/service-worker.js",
+    "static/css/main.80fe696c.chunk.css.map": "/shopping/static/css/main.80fe696c.chunk.css.map",
+    "static/media/crown.5b6cf2e1.svg": "/shopping/static/media/crown.5b6cf2e1.svg"
+  }
+}
