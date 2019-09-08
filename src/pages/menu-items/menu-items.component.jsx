@@ -1,5 +1,5 @@
 import React from 'react';
-import './menu-items-styles.scss';
+import './menu-items.styles.scss';
 
 export const MenuItem = ({title,imageUrl,size}) => {
     return (
